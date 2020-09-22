@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1">
+    <test name="Regression1">
+        <classes>
+            <class name="vn.asm.LoadBrowser"></class>
+            <class name="vn.asm.TestLogin"></class>
+<!--            <class name="vn.asm.TestUser"></class>-->
+<!--            <class name="vn.asm.TestDepart"></class>-->
+<!--            <class name="vn.asm.TestStaff"></class>-->
+<!--            <class name="vn.asm.RecordTest"></class>-->
+<!--            <class name="vn.asm.TestStatistic"></class>-->
+        </classes>
+    </test>
+</suite>
